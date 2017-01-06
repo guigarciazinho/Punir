@@ -1,0 +1,15 @@
+Prefixo: '&f[&cPunir&f]'
+Baniu: '&e @player Foi banido por @adm'
+Motivo: '&c Motivo: '
+Sem permissao: '&e Voce nao tem permissao para usar este comando'
+Nunca jogou: '&e @player nunca jogou neste servidor'
+Desbanido: '&e @player foi despunido por @adm'
+Desbaniu: '&c Jogador desbanido com sucesso'
+Uso incorreto: '&c Uso incorreto. Use /punir Steve motivo'
+Uso incorreto despunir: '&c Uso incorreto. Use /despunir Steve'
+Jogador nao banido: '&c Nao foi possivel despunir @player, pois ele nao se encontra punido'
+Nao permitido: '&c Voce nao pode banir @player'
+Ja punido: '&c @player ja se encontra punido'
+Se punir: '&c Voce nao pode se punir'
+Exclamacao: true 
+#Altere para true se deseja que apareça (!) antes do anuncio do ban, ou para false caso não queira

@@ -1,0 +1,12 @@
+name: Punir
+authors: [guigarciazinho]
+version: 2.0
+main: me.guigarciazinho.Punir.Principal
+description: Plugin de punir e despunir jogadores.
+commands:
+  punir:
+    description: Pune um jogador que quebrou alguma regra.
+  despunir:
+    description: Despune um jogador.
+  puniradd:
+    description: Adiciona um jogador aos super usuarios do plugin.
